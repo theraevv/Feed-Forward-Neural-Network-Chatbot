@@ -1,0 +1,1 @@
+The project is FF Neuralnetwork chatbot build using python. The chatbot can response user quaries using NLP model. For the dataset we uses JSON files (The Dataset used is confidential, thats why I didnt add it)
