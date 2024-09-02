@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "tag": "noanswer",
+      "patterns": [ "*" ],
+      "responses": [
+        "Sorry, can't understand you",
+        "Sorry, I am not programmed to answer that question",
+        "Not sure I understand you"
+      ],
+      "context": [
+        ""
+      ]
+    }
+  ]
+}
